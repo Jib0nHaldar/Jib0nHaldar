@@ -7,6 +7,9 @@ I'm an **Aspiring Full Stack Web Developer 🌐** passionate about building mode
 
 I love learning by building real-world projects, solving problems, and turning ideas into practical applications. 🚀
 
+
+
+
 ### 🧐 More About Me:
 
 * 🌱 Currently learning and strengthening my skills in **JavaScript, TypeScript, React, Next.js**.
@@ -16,6 +19,9 @@ I love learning by building real-world projects, solving problems, and turning i
 * 🎓 My university final-year project was a **Real-Time Face Recognition & Liveness Detection Attendance System**, developed using **Python, OpenCV, Haar Cascade, LBPH, KNN, Tkinter, and MySQL**.
 * 🚀 Currently working toward becoming a confident **Full Stack Developer** and contributing to meaningful software projects.
 * 🤝 Open to **learning, collaboration, and opportunities to work on interesting web development projects**.
+
+
+
 
 ### 🛠️ Languages and Tools:
 
@@ -49,4 +55,20 @@ I love learning by building real-world projects, solving problems, and turning i
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
+
+
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jib0nHaldar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="Ronok's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jib0nHaldar&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Ronok's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jib0nHaldar&theme=tokyonight&hide_border=true" height="180" alt="Ronok's GitHub Streak" />
+</p>
+
+
 
