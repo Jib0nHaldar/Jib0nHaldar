@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="./banner.svg" alt="Ronok Hallther Profile Banner" width="100%" />
+</div>
+
+
 # Hey 👋, I'm Ronok Hallther!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/ronokhallther/)
