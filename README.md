@@ -16,3 +16,37 @@ I love learning by building real-world projects, solving problems, and turning i
 * 🎓 My university final-year project was a **Real-Time Face Recognition & Liveness Detection Attendance System**, developed using **Python, OpenCV, Haar Cascade, LBPH, KNN, Tkinter, and MySQL**.
 * 🚀 Currently working toward becoming a confident **Full Stack Developer** and contributing to meaningful software projects.
 * 🤝 Open to **learning, collaboration, and opportunities to work on interesting web development projects**.
+
+### 🛠️ Languages and Tools:
+
+#### 💻 Languages
+
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
+[![SQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+
+#### 🌐 Web Development
+
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+
+#### 🗄️ Database & Backend
+
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+
+#### 🔧 Tools & Platforms
+
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
+
